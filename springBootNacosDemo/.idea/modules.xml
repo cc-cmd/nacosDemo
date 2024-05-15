@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../nacosDemo/nacosDemo.iml" filepath="$PROJECT_DIR$/../nacosDemo/nacosDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springBootNacosDemo.iml" filepath="$PROJECT_DIR$/.idea/springBootNacosDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springCloudNacosDemo/springCloudNacosDemo.iml" filepath="$PROJECT_DIR$/../springCloudNacosDemo/springCloudNacosDemo.iml" />
+    </modules>
+  </component>
+</project>
