@@ -4,9 +4,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/nacosDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/springBootNacosDemo/springBootNacosDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/springCloudNacosDemo/springCloudNacosDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloudNacosDemo/pom.xml" />
       </list>
     </option>
   </component>
